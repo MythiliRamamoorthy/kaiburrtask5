@@ -18,7 +18,7 @@ This project classifies consumer complaints into 4 categories.
 ![Preprocessing](./output/preprocessing.png)
 
 ### 3. Model Training
-![Training](./output/vector.png)
+![Training](./output/Training.png)
 
 ### 4. Model Comparison
 ![Comparison](./output/NB.png)
